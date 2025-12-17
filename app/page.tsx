@@ -292,7 +292,7 @@ export default function ServiNetLanding() {
                     style={{ animationDelay: `${index * 0.05}s`, transform: 'scale(0.95)', transformOrigin: 'center' }}
                   >
                     <img
-                      src={`/logos/${filename}`}
+                      src={`../public/logos/${filename}`}
                       alt={`Logo ${index + 1}`}
                       className="max-w-full max-h-full object-contain"
                       loading="lazy"
