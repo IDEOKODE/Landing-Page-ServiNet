@@ -465,7 +465,8 @@ export default function ServiNetLanding() {
               </div>
               <h3 className="text-xl md:text-2xl font-bold mb-4">Somos su aliado multiservicio</h3>
               <p className="text-base leading-relaxed opacity-90">
-                Dale a tus clientes un amplio portafolio de servicios. Se apreciado en Pichaleña.
+                Ofrece a tus clientes una solución integral con un amplio portafolio de servicios.
+                La mejor manera de fortalecer la confianza y fidelizarlos
               </p>
             </div>
 
@@ -474,9 +475,9 @@ export default function ServiNetLanding() {
               <div className="w-20 h-20 bg-white rounded-full flex items-center justify-center mx-auto mb-4 animate-bounce-subtle">
                 <Camera className="w-10 h-10 text-brand-blue" />
               </div>
-              <h3 className="text-xl md:text-2xl font-bold mb-4">Lleva tu negocio al siguiente nivel</h3>
+              <h3 className="text-xl md:text-2xl font-bold mb-4">Impulsa tu negocio al siguiente nivel</h3>
               <p className="text-base leading-relaxed opacity-90">
-                Aumenta las compras de tu negocio ofreciendo un amplio portafolio de servicios a tus clientes.
+                Incrementa la rentabilidad de tu negocio brindando más opciones y valor a tus clientes a través de un portafolio completo de servicios.
               </p>
             </div>
 
@@ -485,9 +486,10 @@ export default function ServiNetLanding() {
               <div className="w-20 h-20 bg-white rounded-full flex items-center justify-center mx-auto mb-4 animate-bounce-subtle">
                 <ThumbsUp className="w-10 h-10 text-brand-blue" />
               </div>
-              <h3 className="text-xl md:text-2xl font-bold mb-4">Nuestro fuerte es el servicio</h3>
+              <h3 className="text-xl md:text-2xl font-bold mb-4">NNuestro mayor respaldo es el servicio</h3>
               <p className="text-base leading-relaxed opacity-90">
-                Te unimos a nuestros 24 horas para que y tus acompañamiento las ventajas del sistemas buscando.
+                Contamos con soporte disponible 24/7 para que tú y tus clientes operen con total tranquilidad.
+Te acompañamos en cada paso, justo como lo necesitas.
               </p>
             </div>
           </div>
