@@ -284,7 +284,7 @@ export default function ServiNetLanding() {
             <div className="grid grid-cols-4 gap-3">
               {/* Rutas de las imágenes: /logos/logo1.png ... /logos/logo16.png */}
               {Array.from({ length: 16 }).map((_, index) => {
-                const filename = `logo${index + 1}.png` // ajusta extensión si es .jpg u otra
+                const filename = `Logo${index + 1}.png` // archivos en /public/logos tienen mayúscula inicial
                 return (
                   <div
                     key={filename}
@@ -292,7 +292,7 @@ export default function ServiNetLanding() {
                     style={{ animationDelay: `${index * 0.05}s`, transform: 'scale(0.95)', transformOrigin: 'center' }}
                   >
                     <img
-                      src={`../public/logos/${filename}`}
+                      src={`/logos/${filename}`}
                       alt={`Logo ${index + 1}`}
                       className="max-w-full max-h-full object-contain"
                       loading="lazy"
